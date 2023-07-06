@@ -1,11 +1,37 @@
 {
-  "name": "SuperSuslik312 Unofficial Magisk Modules Repo",
-  "timestamp": 1688668340.388277,
+  "name": "SuperSuslik312 Magisk Modules Repo",
+  "timestamp": 1688673182.305326,
   "metadata": {
     "version": "1.0.0.55fac0a",
     "versionCode": 243
   },
   "modules": [
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
+      "version": "1.36.1",
+      "versionCode": 13612,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static busybox binary for all Android architectures built with the NDK",
+      "license": "",
+      "states": {
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "zygisk-sui",
+      "name": "Zygisk - Sui",
+      "version": "v12.7.2",
+      "versionCode": 300,
+      "author": "Rikka",
+      "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "license": "GPL-3.0",
+      "states": {
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.zip",
+        "changelog": "https://www.supersuslik.xyz/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.md"
+      }
+    },
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
@@ -15,8 +41,21 @@
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://supersuslik312.github.io/magisk-modules-repo/modules/lsposed/v1.8.6_6712.zip",
-        "changelog": "https://supersuslik312.github.io/magisk-modules-repo/modules/lsposed/v1.8.6_6712.md"
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_6712.zip",
+        "changelog": "https://www.supersuslik.xyz/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_6712.md"
+      }
+    },
+    {
+      "id": "zygisksu",
+      "name": "Zygisk on KernelSU",
+      "version": "v4-0.7.1 (89-release)",
+      "versionCode": 89,
+      "author": "Nullptr, 5ec1cff",
+      "description": "Run Zygisk on KernelSU.",
+      "license": "GPL-3.0",
+      "states": {
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/zygisk-ksu/v4-0.7.1_89-release_89.zip",
+        "changelog": ""
       }
     }
   ]

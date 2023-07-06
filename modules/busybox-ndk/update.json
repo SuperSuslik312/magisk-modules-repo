@@ -1,0 +1,13 @@
+{
+  "id": "busybox-ndk",
+  "versions": [
+    {
+      "timestamp": 1687978444.0,
+      "version": "1.36.1",
+      "versionCode": 13612,
+      "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1687978444.0
+}

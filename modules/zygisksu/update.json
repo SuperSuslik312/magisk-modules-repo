@@ -1,0 +1,13 @@
+{
+  "id": "zygisksu",
+  "versions": [
+    {
+      "timestamp": 1687179483.0,
+      "version": "v4-0.7.1 (89-release)",
+      "versionCode": 89,
+      "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/zygisk-ksu/v4-0.7.1_89-release_89.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1687179483.0
+}
