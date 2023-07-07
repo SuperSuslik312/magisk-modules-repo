@@ -1,6 +1,6 @@
 {
   "name": "SuperSuslik312 Magisk Modules Repo",
-  "timestamp": 1688673182.305326,
+  "timestamp": 1688742173.659263,
   "metadata": {
     "version": "1.0.0.55fac0a",
     "versionCode": 243
@@ -16,6 +16,19 @@
       "license": "",
       "states": {
         "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "fixdd",
+      "name": "DriveDroid fix for Android 11+",
+      "version": "v1.0",
+      "versionCode": 10,
+      "author": "Danil Vyazikov & Barsikus007",
+      "description": "DriveDroid USB mounting works again!",
+      "license": "",
+      "states": {
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/fixdd/v1.0_10.zip",
         "changelog": ""
       }
     },
