@@ -1,0 +1,13 @@
+{
+  "id": "youtube-extended-jhc",
+  "versions": [
+    {
+      "timestamp": 1688833524.0,
+      "version": "v18.25.39",
+      "versionCode": 20220877,
+      "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220877/youtube-revanced-extended-magisk-v18.25.39-all.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1688833524.0
+}

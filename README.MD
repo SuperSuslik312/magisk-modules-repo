@@ -11,3 +11,4 @@ https://www.supersuslik.xyz/magisk-modules-repo/
 * [Zygisk - LSPosed](https://github.com/LSPosed/LSPosed)
 * [Zygisk - Sui](https://github.com/RikkaApps/Sui)
 * [Zygisk on KernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU)
+* [YouTube ReVanced Extended](https://github.com/j-hc/revanced-magisk-module)
