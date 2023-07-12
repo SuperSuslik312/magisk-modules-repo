@@ -1,7 +1,5 @@
 {
   "id": "youtube-extended-jhc",
   "update_to": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220878/youtube-revanced-extended-magisk-v18.25.40-all.zip",
-  "license": "GPL-3.0",
-  "last_update": 1689093224.0,
-  "versions": 2
+  "license": "GPL-3.0"
 }
