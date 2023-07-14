@@ -1,6 +1,6 @@
 {
   "name": "SuperSuslik312 Magisk Modules Repo",
-  "timestamp": 1689343827.846159,
+  "timestamp": 1689347231.081676,
   "metadata": {
     "version": "1.0.0.15b7ed9",
     "versionCode": 244
@@ -16,6 +16,19 @@
       "license": "",
       "states": {
         "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "ccbins",
+      "name": "Cross Compiled Binaries",
+      "version": "v10",
+      "versionCode": 15,
+      "author": "Zackptg5",
+      "description": "A growing collection of cross compiled binaries for android",
+      "license": "",
+      "states": {
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/ccbins/v10_15.zip",
         "changelog": ""
       }
     },
