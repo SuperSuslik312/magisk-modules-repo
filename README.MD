@@ -12,3 +12,4 @@ https://www.supersuslik.xyz/magisk-modules-repo/
 * [Zygisk - Sui](https://github.com/RikkaApps/Sui)
 * [Zygisk on KernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU)
 * [YouTube ReVanced Extended](https://github.com/j-hc/revanced-magisk-module)
+* [Linux Chroot Installer](https://github.com/FerryAr/lhroot)

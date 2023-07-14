@@ -1,6 +1,6 @@
 {
   "name": "SuperSuslik312 Magisk Modules Repo",
-  "timestamp": 1689336020.845342,
+  "timestamp": 1689343827.846159,
   "metadata": {
     "version": "1.0.0.15b7ed9",
     "versionCode": 244
@@ -29,6 +29,19 @@
       "license": "",
       "states": {
         "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/fixdd/v1.0_10.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "lhroot",
+      "name": "Linux Chroot Installer",
+      "version": "v2.2.0",
+      "versionCode": 1,
+      "author": "FerryAr",
+      "description": "Systemless linux chroot installer and chroot boot script",
+      "license": "GPL-3.0",
+      "states": {
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/lhroot/v2.2.0_1.zip",
         "changelog": ""
       }
     },
