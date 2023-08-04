@@ -1,6 +1,6 @@
 {
   "name": "SuperSuslik312 Magisk Modules Repo",
-  "timestamp": 1691064023.319732,
+  "timestamp": 1691107221.10015,
   "metadata": {
     "version": "1.0.0.15b7ed9",
     "versionCode": 244
@@ -61,13 +61,13 @@
     {
       "id": "youtube-extended-jhc",
       "name": "YouTube ReVanced Extended",
-      "version": "v18.27.36",
-      "versionCode": 20220881,
+      "version": "v18.29.38",
+      "versionCode": 20220882,
       "author": "j-hc",
       "description": "YouTube ReVanced Extended Magisk module",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220881/youtube-revanced-extended-magisk-v18.27.36-all.zip",
+        "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220882/youtube-revanced-extended-magisk-v18.29.38-all.zip",
         "changelog": ""
       }
     },
