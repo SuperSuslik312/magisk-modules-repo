@@ -2,19 +2,19 @@
   "id": "youtube-extended-jhc",
   "versions": [
     {
-      "timestamp": 1690451782.0,
-      "version": "v18.27.36",
-      "versionCode": 20220881,
-      "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220881/youtube-revanced-extended-magisk-v18.27.36-all.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1691079750.0,
       "version": "v18.29.38",
       "versionCode": 20220882,
       "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220882/youtube-revanced-extended-magisk-v18.29.38-all.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1691684796.0,
+      "version": "v18.30.37",
+      "versionCode": 20220883,
+      "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220883/youtube-revanced-extended-magisk-v18.30.37-all.zip",
+      "changelog": ""
     }
   ],
-  "timestamp": 1691079750.0
+  "timestamp": 1691684796.0
 }
