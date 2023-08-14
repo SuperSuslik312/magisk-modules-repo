@@ -1,6 +1,6 @@
 {
   "name": "SuperSuslik312 Magisk Modules Repo",
-  "timestamp": 1691928030.650042,
+  "timestamp": 1691971228.935412,
   "metadata": {
     "version": "1.0.0.15b7ed9",
     "versionCode": 244
@@ -22,13 +22,13 @@
     {
       "id": "ccbins",
       "name": "Cross Compiled Binaries",
-      "version": "v10",
-      "versionCode": 15,
+      "version": "v11",
+      "versionCode": 16,
       "author": "Zackptg5",
       "description": "A growing collection of cross compiled binaries for android",
       "license": "",
       "states": {
-        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/ccbins/v10_15.zip",
+        "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/ccbins/v11_16.zip",
         "changelog": ""
       }
     },

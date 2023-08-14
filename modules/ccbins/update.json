@@ -7,7 +7,14 @@
       "versionCode": 15,
       "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/ccbins/v10_15.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1691966533.0,
+      "version": "v11",
+      "versionCode": 16,
+      "zipUrl": "https://www.supersuslik.xyz/magisk-modules-repo/modules/ccbins/v11_16.zip",
+      "changelog": ""
     }
   ],
-  "timestamp": 1681306500.0
+  "timestamp": 1691966533.0
 }
